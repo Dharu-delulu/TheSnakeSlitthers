@@ -111,7 +111,7 @@ void loop() {
     }
   }
 
-  // 6. Drawing Logic
+  // Drawing Logic
   u8g2.firstPage();
   do {
     if (gameOver) {
